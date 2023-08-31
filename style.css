@@ -163,6 +163,18 @@ body{
     color: black;
 }
 
+#MatriculA{
+    color: black;
+}
+
+#Nome{
+    color: black;
+}
+
+#email{
+    color: black;
+}
+
 #Enviar{
     border-radius: 5px;
     background-color: white;
@@ -171,6 +183,8 @@ body{
     left: 20px;
     position: relative;
 }
+
+
 
 #Limpar{
     border-radius: 5px;
